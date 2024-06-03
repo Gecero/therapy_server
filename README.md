@@ -1,6 +1,6 @@
 # TherapyServer
 
-Some tiny tiny medical chatbots (called TPGs) that can be accessed via TCP. Inspired by ELIZA and the like. They implement very bare bones language parsing (perhaps an overstatement). The UIs, bots and some comments are written in German.
+Some tiny tiny medical chatbots (called TPGs) that can be accessed via TCP. Inspired by ELIZA and the like. They implement very bare bones language parsing (perhaps an overstatement). The UIs, bots and some comments are written in German. Built with the help of ChatGPT-4o.   
 
 [![asciicast](https://asciinema.org/a/DIFk5j3GX5WH4qsHvJ5i6cyxy.svg)](https://asciinema.org/a/DIFk5j3GX5WH4qsHvJ5i6cyxy)
 
